@@ -27,12 +27,13 @@ point_right https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
 
 
 Cloning an Existing Repository ( Clone with HTTPS )
-
+<pre><code>
 root@slife:~# git clone https://github.com/omurugur/xss-payload-list.git
+</code></pre>
 Cloning an Existing Repository ( Clone with SSH )
-
+<pre><code>
 root@slife:~# git clone git@github.com:omurugur/xss-payload-list.git
-
+</code></pre>
 Donate!
 Support the authors:
 
